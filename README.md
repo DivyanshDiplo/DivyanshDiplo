@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyansh-iit-delhi-64b8192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyansh-iit-delhi-64b8192ab/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divyansh-iit-delhi-64b8192ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyansh-iit-delhi-64b8192ab/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/divyanshiitdelhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/divyanshiitdelhi" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/divyansh.iitd?igsh=ejvrc21zm2rimgg0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/divyansh.iitd?igsh=ejvrc21zm2rimgg0" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/divyanshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/divyanshkumar" height="30" width="40" /></a>
