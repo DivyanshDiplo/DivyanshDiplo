@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **divyansh131203@gmail.com**
 
-- 📄 Fun fact- I have worked under Electrical Prof. Dhiman Mallick as a Project by doing research on Magnetoelectric Transducers and their biological Compatibility
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
